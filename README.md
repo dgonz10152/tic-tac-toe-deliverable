@@ -28,7 +28,7 @@ This is a Tic-Tac-Toe web application with Google authentication and Firebase Fi
 ### Installation
 
 1. Clone this repository:
-   git clone [https://github.com/your-repo/tic-tac-toe-firebase.git](https://github.com/dgonz10152/tic-tac-toe-deliverable.git)
+   git clone [https://github.com/dgonz10152/tic-tac-toe-deliverable.git]
    cd tic-tac-toe-firebase
 2. Install dependencies:
    bash
