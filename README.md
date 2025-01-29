@@ -23,18 +23,15 @@ This is a Tic-Tac-Toe web application with Google authentication and Firebase Fi
 
 1. Node.js and npm installed.
 2. A Firebase project set up with Firestore and Authentication enabled.
-3. Firebase SDK configured in the `firebase.js` file.
 
 ### Installation
 
 1. Clone this repository:
-   git clone [https://github.com/dgonz10152/tic-tac-toe-deliverable.git]
-   cd tic-tac-toe-firebase
-2. Install dependencies:
-   bash
-   Copy code
-   `npm install`
-3. Configure .env:
+	`git clone https://github.com/dgonz10152/tic-tac-toe-deliverable.git`
+	`cd tic-tac-toe-firebase`
+1. Install dependencies:
+	`npm install`
+2. Configure .env:
    - Add your Firebase configuration in the `.env` file:
    ```
    REACT_APP_API_KEY=
@@ -44,5 +41,5 @@ This is a Tic-Tac-Toe web application with Google authentication and Firebase Fi
    REACT_APP_MESSANGING_SENDER_ID=
    REACT_APP_APP_ID=
    ```
-4. Start the development server:
+5. Start the development server:
    `npm start`
